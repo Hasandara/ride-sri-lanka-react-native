@@ -11,6 +11,6 @@ This project demonstrates the navigation flow of the RideSriLanka mobile app.
 
 No backend or real functionality — navigation only.
 
-## 🚀 How to Run
+## How to Run
 
 1. Install dependencies:
